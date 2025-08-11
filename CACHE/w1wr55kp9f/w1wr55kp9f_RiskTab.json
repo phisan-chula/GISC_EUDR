@@ -1,0 +1,23 @@
+{
+  "Risk High":{
+    "cntGFC":17.0,
+    "area_sqm":1454.5625,
+    "hectare":0.14545625,
+    "Thai_rai":0.9091015625,
+    "area_perc_":8.4892525075
+  },
+  "Risk Medium":{
+    "cntGFC":17.0,
+    "area_sqm":1454.5625,
+    "hectare":0.14545625,
+    "Thai_rai":0.9091015625,
+    "area_perc_":8.4892525075
+  },
+  "Compliant!":{
+    "cntGFC":-1.0,
+    "area_sqm":14225.0396242683,
+    "hectare":1.4225039624,
+    "Thai_rai":8.8906497652,
+    "area_perc_":83.0214949851
+  }
+}
