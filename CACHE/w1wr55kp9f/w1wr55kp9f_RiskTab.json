@@ -1,0 +1,34 @@
+{
+  "HigRisk":{
+    "cntGFC":0,
+    "area_sqm":0.0,
+    "hectare":0.0,
+    "Thai_rai":0.0,
+    "area_perc_":0.0,
+    "area_perc":"0.0%"
+  },
+  "MedRiskTH":{
+    "cntGFC":17,
+    "area_sqm":1454.5625,
+    "hectare":0.14545625,
+    "Thai_rai":0.9091015625,
+    "area_perc_":8.4892525075,
+    "area_perc":"8.5%"
+  },
+  "MedRisk":{
+    "cntGFC":17,
+    "area_sqm":1454.5625,
+    "hectare":0.14545625,
+    "Thai_rai":0.9091015625,
+    "area_perc_":8.4892525075,
+    "area_perc":"8.5%"
+  },
+  "Cmpli":{
+    "cntGFC":-1,
+    "area_sqm":14225.0396242683,
+    "hectare":1.4225039624,
+    "Thai_rai":8.8906497652,
+    "area_perc_":83.0214949851,
+    "area_perc":"83.0%"
+  }
+}
