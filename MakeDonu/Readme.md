@@ -1,3 +1,8 @@
+![Uploading image.png…]()
+
+
+
+
 |    | PIN        | part            | area_sqm   |
 |---:|:-----------|:----------------|:-----------|
 |  0 | w1wr5ktymc | outer           | 20,184     |
