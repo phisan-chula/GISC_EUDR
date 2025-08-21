@@ -1,4 +1,25 @@
 #
+# 
+# MakeDonut: Polygon Splitting for EUDR Compliance
+#
+Description = '''
+The MakeDonut function is designed to process polygons that contain interior holes, in accordance with the EUDR GeoJSON File Description, Version 1.5 (dated 5 May 2025, EUDR-API for EO Specification).
+
+When a polygon with a hole is detected:
+
+1. The algorithm computes its Minimum Rotated Rectangle (MRR) to determine the longitudinal axis and the perpendicular axis.
+
+2. Using the perpendicular axis, the polygon is split into two simple polygons (without interior holes).
+
+3. 3. 3. This procedure ensures proper handling of “donut” geometries for downstream compliance and geolocation verification workflows.
+
+Purpose
+This method supports EUDR requirements by standardizing polygon representations, enabling consistent geospatial analysis and ensuring that complex geometries are simplified into forms suitable for compliance assessment.
+'''
+# Author. Dr. Phisan Santitamnont , phisan.s@cdg.co.th , phisan.chula@gmail.com
+# History.  version 0.1 (21 Aug 2025 )
+# 
+#
 #
 #
 import numpy as np
