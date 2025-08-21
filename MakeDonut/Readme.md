@@ -1,6 +1,4 @@
-![Uploading image.png…](https://github.com/phisan-chula/GISC_EUDR/blob/main/MakeDonu/MakeDonut.png)
-
-
+![Uploading image.png…](https://github.com/phisan-chula/GISC_EUDR/blob/main/MakeDonut/MakeDonut.png)
 
 
 |    | PIN        | part            | area_sqm   |
