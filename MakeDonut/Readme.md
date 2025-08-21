@@ -1,14 +1,14 @@
 ![Uploading image.png…](https://github.com/phisan-chula/GISC_EUDR/blob/main/MakeDonut/MakeDonut.png)
 
-
 |    | PIN        | part            | geom_type   |   n_hole | area_sqm   |
 |---:|:-----------|:----------------|:------------|---------:|:-----------|
-|  0 | w1wr5ktymc | outer           | Polygon     |        0 | 20,184     |
-|  1 | w1wr5ktymc | hole            | Polygon     |        0 | 2,257      |
-|  2 | w1wr5ktymc | outer_with_hole | Polygon     |        1 | 17,926     |
-|  3 | w1wr5ktymc | MRR             | Polygon     |        0 | 4,050      |
-|  4 | w1wr5ktymc | donut-1         | Polygon     |        0 | 11,543     |
-|  5 | w1wr5ktymc | donut-2         | Polygon     |        0 | 6,383      |
+|  1 | w1wr5ktymc | outer           | Polygon     |        0 | 20,184     |
+|  2 | w1wr5ktymc | hole            | Polygon     |        0 | 2,257      |
+|  3 | w1wr5ktymc | outer_with_hole | Polygon     |        1 | 17,926     |
+|  4 | w1wr5ktymc | MRR             | Polygon     |        0 | 4,050      |
+|  5 | w1wr5ktymc | donut-1         | Polygon     |        0 | 11,543     |
+|  6 | w1wr5ktymc | donut-2         | Polygon     |        0 | 6,383      |
+
 
 Example:
 <pre> ```

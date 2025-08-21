@@ -90,7 +90,7 @@ def mrr_axes(poly: BaseGeometry, perp_len: float = 1.0, use_rect_centroid: bool 
 
 def DoPlot(gdf):
     gdf = gdf.copy()
-
+    #import pdb ; pdb.set_trace()
     g_outer = gdf.loc[gdf["part"].eq("outer")]
     g_hole  = gdf.loc[gdf["part"].eq("hole")]
     g_owh   = gdf.loc[gdf["part"].eq("outer_with_hole")]
@@ -106,21 +106,31 @@ def DoPlot(gdf):
     fig, axes = plt.subplots(2, 2, figsize=(10, 10))
     ax = axes.ravel()
 
+    def PolyLabel(gdf, ax, color):
+        for idx, row in gdf.iterrows():
+            x, y = row.geometry.centroid.coords[0]
+            ax.text(x, y, str(idx+1), ha="center", va="center", 
+                    fontsize=30, color=color)
     # 1st view: outer (red), hole (blue)
     if not g_outer.empty: g_outer.plot(ax=ax[0], color="none", ec="red",  lw=1.5)
-    if not g_hole.empty:  g_hole.plot( ax=ax[0], color="none", ec="blue", lw=1.5)
+    if not g_hole.empty:  g_hole.plot( ax=ax[0], color="none", ec="green", lw=1.5)
+    PolyLabel(g_outer,ax[0],'red'); PolyLabel(g_hole,ax[0],'green' ) 
     ax[0].set_title("2 x Polygon (outer+hole)")
     # 2nd view: outer_with_hole (pink)
     if not g_owh.empty: g_owh.plot(ax=ax[1], color="none", ec="pink", lw=1.5)
+    PolyLabel(g_owh,ax[1],'pink') 
     ax[1].set_title("1 x MultiPolygon")
     # 3rd view: outer_with_hole (pink) + MRR (black)
     if not g_owh.empty: g_owh.plot(ax=ax[2], color="none", ec="pink", lw=1.5)
     if not g_mrr.empty: g_mrr.plot(ax=ax[2], color="none", ec="black", lw=1.5)
+    PolyLabel(g_owh,ax[2],'pink'); PolyLabel(g_mrr,ax[2],'black' ) 
     ax[2].set_title("MultiPolygon (pink) + MRR (red)")
     # 4th view: donut-1 (red), donut-2 (green)
     if not g_d1.empty: g_d1.plot(ax=ax[3], color="none", ec="red",   lw=1.5)
     if not g_d2.empty: g_d2.plot(ax=ax[3], color="none", ec="green", lw=1.5)
+    PolyLabel(g_d1,ax[3],'red'); PolyLabel(g_d2,ax[3],'green' ) 
     ax[3].set_title("donut-1 (red) + donut-2 (green)")
+    #########################################################################
     # common formatting
     for a in ax:
         a.set_aspect("equal")
@@ -186,9 +196,9 @@ gdf["geom_type"] = gdf["geometry"].apply(lambda g: g.geom_type)
 gdf['area_sqm'] = gdf['geometry'].area*(111_000*111_000)
 gdf['area_sqm'] = (gdf['area_sqm'].round().astype('int64').map(lambda x: f"{x:,}"))
 
-#import pdb ; pdb.set_trace()
-print(gdf[['PIN','part','geom_type','n_hole','area_sqm']].to_markdown())
-
+tab = gdf[['PIN','part','geom_type','n_hole','area_sqm']].copy()
+tab.index = tab.index + 1
+print( tab.to_markdown() )
 for _, row in gdf.iterrows():
     print(f'{60*"="}')
     part = row['part']
