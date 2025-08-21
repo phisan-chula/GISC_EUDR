@@ -169,7 +169,6 @@ row_mrr = gpd.GeoDataFrame(
 poly_hole = gdf[gdf.part=='outer_with_hole'].iloc[0].geometry
 parts = split(poly_hole, perp_axis)
 pieces = [geom for geom in parts.geoms if geom.geom_type == "Polygon"]
-#import pdb ; pdb.set_trace()
 #######################################################################
 print( f'Cutting doughnut , got {len(pieces)} pieces...' )
 row_d1 = gpd.GeoDataFrame(
@@ -181,9 +180,14 @@ row_d2 = gpd.GeoDataFrame(
 
 gdf = gpd.GeoDataFrame(pd.concat([gdf, row_mrr,row_d1,row_d2], ignore_index=True),
                        geometry='geometry', crs=gdf.crs)
+
+gdf["n_hole"] = gdf["geometry"].apply( lambda g: len(g.interiors) if g.geom_type == "Polygon" else sum(len(p.interiors) for p in g.geoms) if g.geom_type == "MultiPolygon" else 0)
+gdf["geom_type"] = gdf["geometry"].apply(lambda g: g.geom_type)
 gdf['area_sqm'] = gdf['geometry'].area*(111_000*111_000)
 gdf['area_sqm'] = (gdf['area_sqm'].round().astype('int64').map(lambda x: f"{x:,}"))
-print(gdf[['PIN','part','area_sqm']].to_markdown())
+
+#import pdb ; pdb.set_trace()
+print(gdf[['PIN','part','geom_type','n_hole','area_sqm']].to_markdown())
 
 for _, row in gdf.iterrows():
     print(f'{60*"="}')
