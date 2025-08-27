@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="40183">
+        <Style id="40329">
+            <LineStyle id="40331">
+                <colorMode>normal</colorMode>
+                <width>1.5</width>
+            </LineStyle>
+            <PolyStyle id="40330">
+                <color>7f8b4513</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Folder id="40184">
+            <Style id="40189">
+                <LineStyle id="40191">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40190">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40196">
+                <LineStyle id="40198">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40197">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40203">
+                <LineStyle id="40205">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40204">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40210">
+                <LineStyle id="40212">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40211">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40217">
+                <LineStyle id="40219">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40218">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40224">
+                <LineStyle id="40226">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40225">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40231">
+                <LineStyle id="40233">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40232">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40238">
+                <LineStyle id="40240">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40239">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40245">
+                <LineStyle id="40247">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40246">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40252">
+                <LineStyle id="40254">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40253">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40259">
+                <LineStyle id="40261">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40260">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40266">
+                <LineStyle id="40268">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40267">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40273">
+                <LineStyle id="40275">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40274">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40280">
+                <LineStyle id="40282">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40281">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40287">
+                <LineStyle id="40289">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40288">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40294">
+                <LineStyle id="40296">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40295">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40301">
+                <LineStyle id="40303">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40302">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40308">
+                <LineStyle id="40310">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40309">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40315">
+                <LineStyle id="40317">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40316">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <Style id="40322">
+                <LineStyle id="40324">
+                    <colorMode>normal</colorMode>
+                    <width>0</width>
+                </LineStyle>
+                <PolyStyle id="40323">
+                    <color>7dff0000</color>
+                    <colorMode>normal</colorMode>
+                    <fill>1</fill>
+                    <outline>1</outline>
+                </PolyStyle>
+            </Style>
+            <name>GFC2020</name>
+            <Placemark id="40186">
+                <name>1</name>
+                <styleUrl>#40189</styleUrl>
+                <Polygon id="40185">
+                    <outerBoundaryIs>
+                        <LinearRing id="40187">
+                            <coordinates>98.927,9.671833333333334,0.0 98.92708333333333,9.671833333333334,0.0 98.92708333333333,9.671916666666666,0.0 98.927,9.671916666666666,0.0 98.927,9.671833333333334,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40193">
+                <name>1</name>
+                <styleUrl>#40196</styleUrl>
+                <Polygon id="40192">
+                    <outerBoundaryIs>
+                        <LinearRing id="40194">
+                            <coordinates>98.92708333333334,9.671833333333332,0.0 98.92716666666666,9.671833333333332,0.0 98.92716666666666,9.671916666666664,0.0 98.92708333333334,9.671916666666664,0.0 98.92708333333334,9.671833333333332,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40200">
+                <name>1</name>
+                <styleUrl>#40203</styleUrl>
+                <Polygon id="40199">
+                    <outerBoundaryIs>
+                        <LinearRing id="40201">
+                            <coordinates>98.92716666666668,9.671833333333336,0.0 98.92725,9.671833333333336,0.0 98.92725,9.671916666666668,0.0 98.92716666666668,9.671916666666668,0.0 98.92716666666668,9.671833333333336,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40207">
+                <name>1</name>
+                <styleUrl>#40210</styleUrl>
+                <Polygon id="40206">
+                    <outerBoundaryIs>
+                        <LinearRing id="40208">
+                            <coordinates>98.927,9.67175,0.0 98.92708333333333,9.67175,0.0 98.92708333333333,9.671833333333332,0.0 98.927,9.671833333333332,0.0 98.927,9.67175,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40214">
+                <name>1</name>
+                <styleUrl>#40217</styleUrl>
+                <Polygon id="40213">
+                    <outerBoundaryIs>
+                        <LinearRing id="40215">
+                            <coordinates>98.92708333333334,9.671750000000001,0.0 98.92716666666666,9.671750000000001,0.0 98.92716666666666,9.671833333333334,0.0 98.92708333333334,9.671833333333334,0.0 98.92708333333334,9.671750000000001,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40221">
+                <name>1</name>
+                <styleUrl>#40224</styleUrl>
+                <Polygon id="40220">
+                    <outerBoundaryIs>
+                        <LinearRing id="40222">
+                            <coordinates>98.92716666666668,9.67175,0.0 98.92725,9.67175,0.0 98.92725,9.671833333333332,0.0 98.92716666666668,9.671833333333332,0.0 98.92716666666668,9.67175,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40228">
+                <name>1</name>
+                <styleUrl>#40231</styleUrl>
+                <Polygon id="40227">
+                    <outerBoundaryIs>
+                        <LinearRing id="40229">
+                            <coordinates>98.92708333333334,9.671666666666665,0.0 98.92716666666666,9.671666666666665,0.0 98.92716666666666,9.671749999999998,0.0 98.92708333333334,9.671749999999998,0.0 98.92708333333334,9.671666666666665,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40235">
+                <name>1</name>
+                <styleUrl>#40238</styleUrl>
+                <Polygon id="40234">
+                    <outerBoundaryIs>
+                        <LinearRing id="40236">
+                            <coordinates>98.92716666666668,9.671666666666669,0.0 98.92725,9.671666666666669,0.0 98.92725,9.671750000000001,0.0 98.92716666666668,9.671750000000001,0.0 98.92716666666668,9.671666666666669,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40242">
+                <name>1</name>
+                <styleUrl>#40245</styleUrl>
+                <Polygon id="40241">
+                    <outerBoundaryIs>
+                        <LinearRing id="40243">
+                            <coordinates>98.92708333333334,9.671583333333333,0.0 98.92716666666666,9.671583333333333,0.0 98.92716666666666,9.671666666666665,0.0 98.92708333333334,9.671666666666665,0.0 98.92708333333334,9.671583333333333,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40249">
+                <name>1</name>
+                <styleUrl>#40252</styleUrl>
+                <Polygon id="40248">
+                    <outerBoundaryIs>
+                        <LinearRing id="40250">
+                            <coordinates>98.92716666666668,9.671583333333334,0.0 98.92725,9.671583333333334,0.0 98.92725,9.671666666666667,0.0 98.92716666666668,9.671666666666667,0.0 98.92716666666668,9.671583333333334,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40256">
+                <name>1</name>
+                <styleUrl>#40259</styleUrl>
+                <Polygon id="40255">
+                    <outerBoundaryIs>
+                        <LinearRing id="40257">
+                            <coordinates>98.92708333333334,9.6715,0.0 98.92716666666666,9.6715,0.0 98.92716666666666,9.671583333333333,0.0 98.92708333333334,9.671583333333333,0.0 98.92708333333334,9.6715,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40263">
+                <name>1</name>
+                <styleUrl>#40266</styleUrl>
+                <Polygon id="40262">
+                    <outerBoundaryIs>
+                        <LinearRing id="40264">
+                            <coordinates>98.92716666666668,9.671500000000002,0.0 98.92725,9.671500000000002,0.0 98.92725,9.671583333333334,0.0 98.92716666666668,9.671583333333334,0.0 98.92716666666668,9.671500000000002,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40270">
+                <name>1</name>
+                <styleUrl>#40273</styleUrl>
+                <Polygon id="40269">
+                    <outerBoundaryIs>
+                        <LinearRing id="40271">
+                            <coordinates>98.927,9.671416666666666,0.0 98.92708333333333,9.671416666666666,0.0 98.92708333333333,9.671499999999998,0.0 98.927,9.671499999999998,0.0 98.927,9.671416666666666,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40277">
+                <name>1</name>
+                <styleUrl>#40280</styleUrl>
+                <Polygon id="40276">
+                    <outerBoundaryIs>
+                        <LinearRing id="40278">
+                            <coordinates>98.92708333333334,9.671416666666666,0.0 98.92716666666666,9.671416666666666,0.0 98.92716666666666,9.671499999999998,0.0 98.92708333333334,9.671499999999998,0.0 98.92708333333334,9.671416666666666,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40284">
+                <name>1</name>
+                <styleUrl>#40287</styleUrl>
+                <Polygon id="40283">
+                    <outerBoundaryIs>
+                        <LinearRing id="40285">
+                            <coordinates>98.92716666666668,9.671416666666667,0.0 98.92725,9.671416666666667,0.0 98.92725,9.6715,0.0 98.92716666666668,9.6715,0.0 98.92716666666668,9.671416666666667,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40291">
+                <name>1</name>
+                <styleUrl>#40294</styleUrl>
+                <Polygon id="40290">
+                    <outerBoundaryIs>
+                        <LinearRing id="40292">
+                            <coordinates>98.927,9.671333333333335,0.0 98.92708333333333,9.671333333333335,0.0 98.92708333333333,9.671416666666667,0.0 98.927,9.671416666666667,0.0 98.927,9.671333333333335,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40298">
+                <name>1</name>
+                <styleUrl>#40301</styleUrl>
+                <Polygon id="40297">
+                    <outerBoundaryIs>
+                        <LinearRing id="40299">
+                            <coordinates>98.92708333333334,9.671333333333333,0.0 98.92716666666666,9.671333333333333,0.0 98.92716666666666,9.671416666666666,0.0 98.92708333333334,9.671416666666666,0.0 98.92708333333334,9.671333333333333,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40305">
+                <name>1</name>
+                <styleUrl>#40308</styleUrl>
+                <Polygon id="40304">
+                    <outerBoundaryIs>
+                        <LinearRing id="40306">
+                            <coordinates>98.92716666666668,9.671333333333335,0.0 98.92725,9.671333333333335,0.0 98.92725,9.671416666666667,0.0 98.92716666666668,9.671416666666667,0.0 98.92716666666668,9.671333333333335,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40312">
+                <name>1</name>
+                <styleUrl>#40315</styleUrl>
+                <Polygon id="40311">
+                    <outerBoundaryIs>
+                        <LinearRing id="40313">
+                            <coordinates>98.92708333333334,9.67125,0.0 98.92716666666666,9.67125,0.0 98.92716666666666,9.671333333333333,0.0 98.92708333333334,9.671333333333333,0.0 98.92708333333334,9.67125,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+            <Placemark id="40319">
+                <name>1</name>
+                <styleUrl>#40322</styleUrl>
+                <Polygon id="40318">
+                    <outerBoundaryIs>
+                        <LinearRing id="40320">
+                            <coordinates>98.92716666666668,9.67125,0.0 98.92725,9.67125,0.0 98.92725,9.671333333333333,0.0 98.92716666666668,9.671333333333333,0.0 98.92716666666668,9.67125,0.0</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </Placemark>
+        </Folder>
+        <Placemark id="40326">
+            <name>Plot</name>
+            <description>&lt;h3&gt;Parcel&lt;/h3&gt;&lt;table border='1' cellpadding='3' cellspacing='0'&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;geohash10&lt;/b&gt;&lt;/td&gt;&lt;td&gt;w1wr50kz36&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;lu_eudr&lt;/b&gt;&lt;/td&gt;&lt;td&gt;ปาล์มน้ำมัน&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;sqm&lt;/b&gt;&lt;/td&gt;&lt;td&gt;27710.70892589655&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;rai-ngan-wa&lt;/b&gt;&lt;/td&gt;&lt;td&gt;17-1-27&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;rai_deci&lt;/b&gt;&lt;/td&gt;&lt;td&gt;17.319193078685345&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;hectare&lt;/b&gt;&lt;/td&gt;&lt;td&gt;2.771070892589655&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+            <styleUrl>#40329</styleUrl>
+            <Polygon id="40325">
+                <outerBoundaryIs>
+                    <LinearRing id="40327">
+                        <coordinates>98.92708840100005,9.668809490000058,0.0 98.92674888400006,9.670170048000045,0.0 98.92726039500008,9.671315250000019,0.0 98.92755640500008,9.671935107000024,0.0 98.92841385500009,9.671573172000024,0.0 98.92708840100005,9.668809490000058,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>
