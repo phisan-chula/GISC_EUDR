@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="40333">
+        <Style id="40339">
+            <LineStyle id="40341">
+                <colorMode>normal</colorMode>
+                <width>1.5</width>
+            </LineStyle>
+            <PolyStyle id="40340">
+                <color>7f8b4513</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Folder id="40334">
+            <name>GFC2020</name>
+        </Folder>
+        <Placemark id="40336">
+            <name>Plot</name>
+            <description>&lt;h3&gt;Parcel&lt;/h3&gt;&lt;table border='1' cellpadding='3' cellspacing='0'&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;geohash10&lt;/b&gt;&lt;/td&gt;&lt;td&gt;w1wqfuy1uz&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;lu_eudr&lt;/b&gt;&lt;/td&gt;&lt;td&gt;ปาล์มน้ำมัน&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;sqm&lt;/b&gt;&lt;/td&gt;&lt;td&gt;62383.2200716678&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;rai-ngan-wa&lt;/b&gt;&lt;/td&gt;&lt;td&gt;38-3-95&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;rai_deci&lt;/b&gt;&lt;/td&gt;&lt;td&gt;38.989512544792376&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;hectare&lt;/b&gt;&lt;/td&gt;&lt;td&gt;6.23832200716678&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+            <styleUrl>#40339</styleUrl>
+            <Polygon id="40335">
+                <outerBoundaryIs>
+                    <LinearRing id="40337">
+                        <coordinates>98.91871625100003,9.649524530000065,0.0 98.91894761600008,9.64876432400007,0.0 98.91862656300003,9.648367260000043,0.0 98.91813038200007,9.648874318000024,0.0 98.91751242500004,9.650030954000046,0.0 98.9168692090001,9.65067328200007,0.0 98.91759737000007,9.651062957000022,0.0 98.91759412600005,9.651176562000046,0.0 98.91748644600005,9.651868973000036,0.0 98.91789275900004,9.651692173000072,0.0 98.91807609400007,9.652020929000058,0.0 98.91837107300006,9.65199711100007,0.0 98.91854060500003,9.651938363000054,0.0 98.91870812800005,9.651816566000035,0.0 98.91917391500004,9.651531158000067,0.0 98.91947923300006,9.651460719000054,0.0 98.91934938400004,9.649939181000036,0.0 98.91871625100003,9.649524530000065,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>
