@@ -1,0 +1,34 @@
+{
+  "HighRisk":{
+    "cntGFC":0,
+    "area_sqm":0.0,
+    "hectare":0.0,
+    "Thai_rai":0.0,
+    "area_perc_":0.0,
+    "area_perc":"0.0%"
+  },
+  "MediumRiskTH":{
+    "cntGFC":0,
+    "area_sqm":0.0,
+    "hectare":0.0,
+    "Thai_rai":0.0,
+    "area_perc_":0.0,
+    "area_perc":"0.0%"
+  },
+  "MediumRisk":{
+    "cntGFC":118,
+    "area_sqm":10096.375,
+    "hectare":1.0096375,
+    "Thai_rai":6.310234375,
+    "area_perc_":54.3636386056,
+    "area_perc":"54.4%"
+  },
+  "Compliant!":{
+    "cntGFC":-1,
+    "area_sqm":8475.5514916141,
+    "hectare":0.8475551492,
+    "Thai_rai":5.2972196823,
+    "area_perc_":45.6363613944,
+    "area_perc":"45.6%"
+  }
+}
