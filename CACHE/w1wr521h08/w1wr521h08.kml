@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="37603">
+        <Style id="37609">
+            <LineStyle id="37611">
+                <colorMode>normal</colorMode>
+                <width>1.5</width>
+            </LineStyle>
+            <PolyStyle id="37610">
+                <color>7f8b4513</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Folder id="37604">
+            <name>GFC2020</name>
+        </Folder>
+        <Placemark id="37606">
+            <name>Plot</name>
+            <description>&lt;h3&gt;Parcel&lt;/h3&gt;&lt;table border='1' cellpadding='3' cellspacing='0'&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;geohash10&lt;/b&gt;&lt;/td&gt;&lt;td&gt;w1wr521h08&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;lu_eudr&lt;/b&gt;&lt;/td&gt;&lt;td&gt;ปาล์มน้ำมัน&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;sqm&lt;/b&gt;&lt;/td&gt;&lt;td&gt;48928.6687218694&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;rai-ngan-wa&lt;/b&gt;&lt;/td&gt;&lt;td&gt;30-2-32&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;rai_deci&lt;/b&gt;&lt;/td&gt;&lt;td&gt;30.580417951168375&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;b&gt;hectare&lt;/b&gt;&lt;/td&gt;&lt;td&gt;4.89286687218694&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+            <styleUrl>#37609</styleUrl>
+            <Polygon id="37605">
+                <outerBoundaryIs>
+                    <LinearRing id="37607">
+                        <coordinates>98.93356543500005,9.66851910300005,0.0 98.93246445200003,9.666186192000051,0.0 98.93172209900007,9.666533045000053,0.0 98.93390345100005,9.670773016000055,0.0 98.93443391400007,9.67073889300002,0.0 98.93472679900003,9.67103528700005,0.0 98.93504408300004,9.670972782000034,0.0 98.93356543500005,9.66851910300005,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>
