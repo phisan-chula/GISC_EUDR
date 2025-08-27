@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ProducerName": "Producer 1",
+        "ProducerCountry": "TH",
+        "ProductionPlace": "Place X"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                98.929108,
+                9.675179
+              ],
+              [
+                98.929684,
+                9.67477
+              ],
+              [
+                98.928813,
+                9.673447
+              ],
+              [
+                98.928294,
+                9.673784
+              ],
+              [
+                98.928278,
+                9.673964
+              ],
+              [
+                98.929108,
+                9.675179
+              ]
+            ]
+          ]
+        ]
+      },
+      "id": 0
+    }
+  ]
+}
